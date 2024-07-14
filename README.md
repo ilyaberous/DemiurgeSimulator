@@ -16,6 +16,8 @@
 
 В итоге, проект был разработан на чистом **UIKit**, c использованием архитектурного подохода **MVVM + Delegates** (делегаты взяты опять же из-за простоты)
 
+![Simulator Screen Recording - iPhone 14 Pro - 2024-07-14 at 03 02 04](https://github.com/user-attachments/assets/438b08fb-55d7-4f35-bec5-37f003646b69)
+
 ### Важные замечания
 ❗ Осторожно ❗ Много Букв ❗
 
